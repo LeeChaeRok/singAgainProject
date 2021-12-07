@@ -1,6 +1,6 @@
 # YoutubeProject
 
-## 1. SingAgain Project
+### 1. SingAgain Project
 분석 목적
 - 유튜브 조회 수, 좋아요, 싫어요 수를 통한 오디션 프로그램의 우승자 예측
 
